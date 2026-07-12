@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🔒 Email the maintainer (private)
+    url: mailto:asyst.rendering@gmail.com
+    about: For licence questions, Enterprise enquiries, or anything you'd rather not post publicly.
+  - name: ⭐ Rate ASysT Rendering on the Marketplace
+    url: https://marketplace.visualstudio.com/items?itemName=juce.asyst-vscode&ssr=false#review-details
+    about: A short public review helps other engineers find the tool.

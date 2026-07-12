@@ -1,0 +1,19 @@
+name: 💡 Feature idea
+description: A view you miss, a workflow that takes too many clicks, a construct you need.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: What are you trying to do?
+      description: Tell us the goal, not just the button — it helps us find the best solution.
+    validations:
+      required: true
+  - type: textarea
+    id: today
+    attributes:
+      label: How do you do it today?
+  - type: textarea
+    id: ideal
+    attributes:
+      label: What would make it great?
